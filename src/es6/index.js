@@ -75,3 +75,6 @@ let hola = 'hola'; // solo funciona en el scope o bloque
 
 console.log(globalVar);
 console.log(globalLet);
+
+const a = 'b';
+a = 'c';
